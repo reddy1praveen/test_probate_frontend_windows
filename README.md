@@ -38,7 +38,9 @@ Windows commands
 
 
 ``` 
-set NODE_PATH . 
+set NODE_PATH . (in windows this did not work)
+so updated the enviroinment varaible usind Advanced System setting. (Control Panel\All Control Panel Items\System)
+Upated value looks like this ".;C:\Users\User\AppData\Roaming\npm\node_modules".
 
 ```
 
