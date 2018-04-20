@@ -11,7 +11,7 @@ anothe one probate-frontend which is giving troble.
 Instruction to test iss same
 The tar files already contains NODE_MODULES so `don't run` commands `yarn install` and `yarn setup`
 
-in Azure pass we dont start app using start command.
+in Azure PAAS we don't start app using `yarn start` command.
 
 We simple need to set the path.
 
